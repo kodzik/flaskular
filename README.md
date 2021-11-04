@@ -1,0 +1,2 @@
+# flaskular
+ angular flask skeleton
